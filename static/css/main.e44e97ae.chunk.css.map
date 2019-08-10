@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,QACE,iBAAkB,CAClB,OAAQ,CACR,QACF","file":"main.e44e97ae.chunk.css","sourcesContent":[".center {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n}\n"]}
